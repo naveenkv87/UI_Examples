@@ -1,0 +1,47 @@
+.planet_Details_container {
+    width: 80%;
+    margin: 0px auto;
+}
+
+.planet_panel {
+    display: inline-block;
+    width: 50%;
+}
+.planet_list {
+    width: 30%;
+}
+.planet_Details {
+    width: 70%;
+    vertical-align: top;
+    text-align: left;
+}
+
+td {
+    text-align: left;
+}
+
+.planet_name {
+    border: none;
+    background: none;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.planet_name_title {
+    text-decoration: underline;
+    font-weight: 700;
+    color: gold;
+
+}
+.nav_button {
+    padding: 10px;
+    border-radius: 5px;
+    background: cornflowerblue;
+    border: 0;
+    color: white;
+    font-weight: 700;
+    width: 100px;
+    margin: 10px;
+    cursor: pointer;
+}
